@@ -23,4 +23,4 @@ public class CalculatorTest {
         assertEquals(cal.mulFucn(3, 3), 9);
     }
    
-} 
+}
